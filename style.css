@@ -1,4 +1,62 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: "Montserrat", sans-serif;
 }
+
+#container-cabecalho{
+  background-color: #F4F0EB;
+}
+
+.img-logo {
+  display: flex;
+  margin: 0 auto 0 auto;
+  width: 200px;
+}
+
+#navegacao{
+  background-color: #ebb3bb;
+  padding: 10px;
+}
+
+.link-nav{
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29px;
+  text-decoration: none;
+  margin-right: 23px;
+  color: #703A44;
+  display: flex;
+  align-items: center;
+}
+
+#container-nav{
+  display: flex;
+  justify-content: center;
+}
+
+.btn-entrar {
+  width: 130px;
+  height: 41px;
+  border: none;
+  border-radius: 10px;
+  background: #c9828f;
+  color:  #703A44;
+  line-height: 29px;
+  font-weight: 600;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.btn-entrar:hover{
+  opacity: 0.8;
+}
+
+.btn-entrar:active{
+  opacity: 0.6;
+}
+
+.link-nav:hover{
+  opacity: 0.8;
+}
+
