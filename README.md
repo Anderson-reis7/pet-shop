@@ -1,7 +1,9 @@
 Casa dos Pets - Projeto de Treinamento
+
 Este projeto consiste em uma tela básica de petshop chamada "Casa dos Pets". Desenvolvido com foco em treinamento, a aplicação visa solidificar os conceitos fundamentais de HTML e CSS.
 
 Objetivo
+
 O objetivo principal é proporcionar uma experiência prática para iniciantes em desenvolvimento web, permitindo a aplicação e compreensão dos conceitos básicos de estruturação e estilização de páginas.
 
 Conteúdo
